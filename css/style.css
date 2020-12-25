@@ -510,6 +510,7 @@ body.ie .ibg img {
 	-webkit-box-pack: justify;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
+	padding: 70px 0 0 0 ;
 }
 .main__column:nth-child(1) {
 	margin: 140px 0px 0px 0px;
